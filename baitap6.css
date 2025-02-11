@@ -1,0 +1,31 @@
+
+pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+button {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+.a{
+    text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.b{
+    background-color: white;
+    border-left: 5px solid green;
+}
+.red{
+    color: red;
+}
+.blue{
+    color: blue;
+}
+.d{
+    color: rgb(141, 16, 36);
+}

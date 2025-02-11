@@ -1,0 +1,50 @@
+div {
+    width: 100%;
+    background-color: rgb(207, 201, 201);
+}
+
+.TABLE {
+    width: 100%;
+}
+
+.table1 {
+    background-color: rgb(30, 30, 219);
+    color: white;
+}
+
+.table2 {
+    text-align: center;
+}
+
+#a1 {
+    background-color: rgb(207, 201, 201);
+}
+
+#a2 {
+    background-color: white;
+}
+
+#a3 {
+    background-color: rgb(207, 201, 201);
+}
+
+#a4 {
+    background-color: white;
+}
+#a5 {
+    background-color: rgb(207, 201, 201);
+}
+
+
+.green{
+    background-color: green;
+    color: white;
+}
+.yellow{
+    background-color: yellow;
+    color: black;
+}
+.red{
+    background-color: red;
+    color: white;
+}
